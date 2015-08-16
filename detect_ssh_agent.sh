@@ -1,6 +1,6 @@
 #!/bin/bash
 # Detects a running SSH agent and sets up the environment such that it is used
-# Use it as follows in BASH: . detect_ssh_agent.sh
+# Use it as follows in BASH: $(detect_ssh_agent.sh)
 #
 # Author:  Stephan Diestelhorst <stephan.diestelhorst@gmail.com>
 # Date:    2015-08-15
